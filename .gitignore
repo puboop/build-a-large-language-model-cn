@@ -3,5 +3,11 @@
 .cursor
 
 .idea/
-src/
+src/**/gpt2/
+src/**/sms_spam_collection/
+src/**/*.pth
+src/**/*.pdf
+src/**/*.csv
+src/**/*.tsv
+src/**/*.txt
 __pycache__/
